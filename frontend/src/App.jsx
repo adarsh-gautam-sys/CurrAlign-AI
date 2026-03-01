@@ -5,7 +5,7 @@ import Features from './components/Features';
 import Workspace from './components/Workspace';
 import Footer from './components/Footer';
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000';
 
 function App() {
     const [backendStatus, setBackendStatus] = useState('Checking backend...');
