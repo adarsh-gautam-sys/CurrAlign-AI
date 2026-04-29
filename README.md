@@ -70,7 +70,7 @@ All analysis runs **locally on the user’s device**.
 
 Includes a **One-Click Judge Mode** with preloaded demo data for instant evaluation.
 
-🎥 Demo Video (≤ 3 mins): *[Add link]*  
+🎥 Deploymenet : *[(https://adarsh-gautam-sys.github.io/CurrAlign-AI/)]*  
 🔗 GitHub Repository: *[(https://github.com/adarsh-gautam-sys/CurrAlign-AI)]*
 
 ---
